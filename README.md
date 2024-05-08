@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REFLEXO7
+- 👋 Hi, I’m @rishu gupta
 - 👀 I’m interested in python programming, software development, java development etc.
 - 🌱 I’m currently learning python,java, sql etc.
 - 💞️ I’m looking to collaborate on opportunities for learning and career development.
